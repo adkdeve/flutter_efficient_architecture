@@ -137,7 +137,7 @@ Container(color: colors.surface);
 ### 1. Clone and install dependencies
 
 ```bash
-git clone https://github.com/your-name/pcom_app.git
+git clone https://github.com/adkdeve/flutter_efficient_architecture.git
 cd flutter_efficient_architecture
 flutter pub get
 ```
